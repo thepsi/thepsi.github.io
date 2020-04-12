@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bluetemp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bluetemp/static/js/main.c5bf7fd2.chunk.js",
+    "main.js.map": "/bluetemp/static/js/main.c5bf7fd2.chunk.js.map",
+    "runtime-main.js": "/bluetemp/static/js/runtime-main.06d0c39d.js",
+    "runtime-main.js.map": "/bluetemp/static/js/runtime-main.06d0c39d.js.map",
+    "static/js/2.b28e9327.chunk.js": "/bluetemp/static/js/2.b28e9327.chunk.js",
+    "static/js/2.b28e9327.chunk.js.map": "/bluetemp/static/js/2.b28e9327.chunk.js.map",
+    "index.html": "/bluetemp/index.html",
+    "precache-manifest.6bb7806e4f3cc87275638c3ea9ce1a01.js": "/bluetemp/precache-manifest.6bb7806e4f3cc87275638c3ea9ce1a01.js",
+    "service-worker.js": "/bluetemp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bluetemp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b28e9327.chunk.js.LICENSE.txt": "/bluetemp/static/js/2.b28e9327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06d0c39d.js",
+    "static/js/2.b28e9327.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c5bf7fd2.chunk.js"
+  ]
+}
